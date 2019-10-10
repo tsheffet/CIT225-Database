@@ -1,9 +1,4 @@
 -- ------------------------------------------------------------------
---  Program Name:   apply_oracle_lab7.sql
---  Lab Assignment: Lab #7
---  Program Author: Michael McLaughlin
---  Creation Date:  02-Mar-2010
--- ------------------------------------------------------------------
 -- Instructions:
 -- ------------------------------------------------------------------
 -- The two scripts contain spooling commands, which is why there
