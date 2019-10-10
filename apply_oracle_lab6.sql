@@ -1,9 +1,4 @@
 -- ------------------------------------------------------------------
---  Program Name:   apply_oracle_lab6.sql
---  Lab Assignment: Lab #6
---  Program Author: Michael McLaughlin
---  Creation Date:  02-Mar-2018
--- ------------------------------------------------------------------
 -- Instructions:
 -- ------------------------------------------------------------------
 -- Run the prior lab script.
