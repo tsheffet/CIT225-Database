@@ -1,9 +1,4 @@
 -- ------------------------------------------------------------------
---  Program Name:   apply_oracle_lab12.sql
---  Lab Assignment: Lab #12
---  Program Author: Michael McLaughlin
---  Creation Date:  02-Mar-2018
--- ------------------------------------------------------------------
 -- Instructions:
 -- ------------------------------------------------------------------
 -- The two scripts contain spooling commands, which is why there
